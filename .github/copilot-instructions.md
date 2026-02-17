@@ -1,4 +1,4 @@
-# FeOF Computational Materials Science Project
+# FeOF anion ordering investigation
 
 ## Project Overview
 
