@@ -1,0 +1,20 @@
+INCAR created by Atomic Simulation Environment
+ ENAUG = 2600.000000
+ ENCUT = 650.000000
+ SIGMA = 0.050000
+ EDIFF = 1.00e-08
+ EDIFFG = -1.00e-03
+ ALGO = Normal
+ GGA = PS
+ PREC = Accurate
+ IBRION = 1
+ #IBRION =2 (I run a loop between IBRION = 2 and 1 to relax the structures first and then do a static calculation to get the accurate energies) 
+ ISIF = 3
+ KPAR = 8
+ LMAXMIX = 4
+ LORBIT = 11
+ NELMIN = 5
+ NSW = 100
+ NCORE = 4
+ LASPH = .TRUE.
+

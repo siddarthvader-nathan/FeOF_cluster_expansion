@@ -1,0 +1,8 @@
+ase>=3.22
+icet>=3.0
+mchammer>=0.13
+trainstation>=0.5
+numpy>=1.20
+pandas>=1.3
+matplotlib>=3.4
+seaborn>=0.11
