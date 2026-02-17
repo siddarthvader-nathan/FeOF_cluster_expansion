@@ -37,9 +37,14 @@ FeOF/
 │   └── clean_poscar.py            # POSCAR formatting utility
 ├── cem_nm.ipynb                   # CEM training notebook
 ├── grid.ipynb                     # GRID analysis notebook
-├── size_*_unrelaxed/              # Enumerated structures by size
+├── size_*_unrelaxed/              # Enumerated structures by size, unrelaxed
 ├── results/                       # MC outputs and trained models
-└── FeOF_gs_relaxed_structs/       # Reference ground state structures
+└── FeOF_gs_relaxed_structs/       # FeOF ground state relaxed candidate structures
+└── FeOF_gs_unrelaxed_structs/     # FeOF ground state unrelaxed candidate structures
+				     These are generated from structure enumeration
+└── INCAR_DFT_relaxation	   # INCAR file used for DFT relaxations for CEM targets
+└── cem_training_energies_nm.txt   # DFT calculated energies (in eV) of all structures
+				     These are fed into the CEM training as targets
 ```
 
 ## Quick Start
