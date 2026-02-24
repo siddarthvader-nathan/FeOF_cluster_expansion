@@ -94,6 +94,6 @@ See `requirements.txt` for versions.
 
 ## Project Details
 
-See [.github/instructions.md](./.github/copilot-instructions.md) for detailed documentation of the workflow, conventions, and parameters.
+See [.github/instructions.md](./.github/instructions.md) for detailed documentation of the workflow, conventions, and parameters.
 
 **Paper**: [https://arxiv.org/abs/2512.12179](https://arxiv.org/abs/2512.12179)
