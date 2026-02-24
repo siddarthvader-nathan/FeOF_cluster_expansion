@@ -41,10 +41,10 @@ FeOF/
 ├── results/                       # MC outputs and trained models
 └── FeOF_gs_relaxed_structs/       # FeOF ground state relaxed candidate structures
 └── FeOF_gs_unrelaxed_structs/     # FeOF ground state unrelaxed candidate structures
-				     These are generated from structure enumeration
+				     		These are generated from structure enumeration
 └── INCAR_DFT_relaxation	   # INCAR file used for DFT relaxations for CEM targets
 └── cem_training_energies_nm.txt   # DFT calculated energies (in eV) of all structures
-				     These are fed into the CEM training as targets
+				     		These are fed into the CEM training as targets
 ```
 
 ## Quick Start
@@ -94,6 +94,6 @@ See `requirements.txt` for versions.
 
 ## Project Details
 
-See [.github/copilot-instructions.md](./.github/copilot-instructions.md) for detailed documentation of the workflow, conventions, and parameters.
+See [.github/instructions.md](./.github/copilot-instructions.md) for detailed documentation of the workflow, conventions, and parameters.
 
 **Paper**: [https://arxiv.org/abs/2512.12179](https://arxiv.org/abs/2512.12179)
