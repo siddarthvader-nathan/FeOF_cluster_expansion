@@ -166,4 +166,6 @@ feof-clean-poscar ./results/mc_simulations_size_3_cem/<unformatted .vasp file> .
 
 ## Citation
 
-All work in this repository was used for our working paper: [https://arxiv.org/abs/2512.12179]()
+All work in this repository was utilized for the following paper: Physical Review Materials 10(5), 054404 (2026)
+
+Please cite this work if you need to use any of this code.
