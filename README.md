@@ -14,7 +14,7 @@ Research codebase for studying Fe(O/F) phase space using cluster expansion model
    ```bash
    pip install -r requirements.txt
    ```
-3. **You're done!** Now you can:
+3. **That's it!** Now you can:
 
    - Import from anywhere: `from feof.cem_functions_new import cem_generator`
    - Run scripts from anywhere:
@@ -88,7 +88,7 @@ python -m feof.clean_poscar ./results/unformatted.vasp ./results/formatted.vasp
 - **mchammer**: Monte Carlo simulations
 - **trainstation**: ML fitting for CEMs
 - **ase**: Atomic structure tools
-- Standard: numpy, pandas, matplotlib, seaborn
+- **Standard:** numpy, pandas, matplotlib, seaborn
 
 See `requirements.txt` for versions.
 
@@ -96,4 +96,4 @@ See `requirements.txt` for versions.
 
 See [.github/instructions.md](./.github/instructions.md) for detailed documentation of the workflow, conventions, and parameters.
 
-**Paper**: [https://arxiv.org/abs/2512.12179](https://arxiv.org/abs/2512.12179)
+**Paper**: Physical Review Materials 10(5), 054404
