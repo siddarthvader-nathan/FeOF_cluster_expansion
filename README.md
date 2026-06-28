@@ -96,4 +96,4 @@ See `requirements.txt` for versions.
 
 See [.github/instructions.md](./.github/instructions.md) for detailed documentation of the workflow, conventions, and parameters.
 
-**Paper**: Physical Review Materials 10(5), 054404
+**Paper**: Physical Review Materials 10(5), 054404 (2026)
